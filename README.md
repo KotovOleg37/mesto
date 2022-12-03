@@ -9,5 +9,5 @@
 4.БЭМ
 5.Java-script
  ****
-[Cсылка на GitHubes Pages](https://github.com/KotovOleg37/russian-travel) 
+[Cсылка на GitHubes Pages](https://github.com/KotovOleg37/mesto) 
 
