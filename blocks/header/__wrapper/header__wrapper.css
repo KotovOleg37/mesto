@@ -1,0 +1,9 @@
+.header__wrapper{
+  padding-bottom: 36px;
+}
+
+@media screen and (max-width: 425px) {
+  .header__wrapper {
+    padding-bottom: 38.25px;
+  }
+}

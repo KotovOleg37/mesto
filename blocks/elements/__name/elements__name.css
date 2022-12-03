@@ -1,0 +1,10 @@
+.elements__name{
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 25px;
+  padding-bottom: 31px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  
+}

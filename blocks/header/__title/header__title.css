@@ -1,0 +1,21 @@
+.header__title{
+  color: white;
+  padding-left: 15.625%;
+  padding-right: 15.625%;
+  padding-top: 45px;
+  padding-bottom: 41px;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 120%;
+  margin: 0;
+}
+
+@media screen and (max-width: 425px) {
+  .header__title {
+    font-size: 24px;
+    padding-top: 28px;
+    padding-left: 27px;
+    padding-bottom: 31.6px;
+  }
+}

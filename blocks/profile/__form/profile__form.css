@@ -1,0 +1,29 @@
+.profile__form{
+  background-color: black;
+  border: 2px solid #FFFFFF;
+  border-radius: 2px;
+  flex-basis: 150px;
+  min-height: 50px;
+  padding: 0;
+  margin-left: 27.8%
+} 
+
+
+@media screen and (max-width: 879px) {
+  .profile__form {
+    margin-left: 20.3%
+  }
+}
+
+@media screen and (max-width: 802px) {
+  .profile__form {
+    margin-left: 5%;
+  }
+}
+
+@media screen and (max-width: 675px) {
+  .profile__form {
+    margin: 0 auto;
+    flex-basis: 282px;
+  }
+}
