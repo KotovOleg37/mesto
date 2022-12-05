@@ -1,6 +1,6 @@
 .popup__job {
   border: none;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid rgba(0, 0, 0, .2);
   min-width: 358px;
   padding: 0;
   font-family: 'Inter', Arial, Helvetica, sans-serif;
@@ -12,10 +12,16 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.popup__job:focus {
+  outline-color: rgb(69, 96, 219);
 }
 
 @media screen and (max-width: 768px) {
   .popup__job {
     min-width: 238px;
+    margin-bottom: 18px
   }
 }

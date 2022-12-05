@@ -24,6 +24,7 @@
 @media screen and (max-width: 675px) {
   .profile__form {
     margin: 0 auto;
-    flex-basis: 282px;
+    width: 282px;
+    flex-basis: 0px;
   }
 }

@@ -1,0 +1,7 @@
+@media screen and (max-width: 675px) {
+  .profile__add {
+    width: 18px;
+    height: 18px;
+    object-fit: cover;
+  }
+}

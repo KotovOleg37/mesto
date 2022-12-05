@@ -1,7 +1,7 @@
 .popup__close{
   position: absolute;
-  bottom:  100%;
-  left: 100%;
+  bottom:  102%;
+  left: 102%;
   background: rgba(0, 0, 0, 0);
   padding: 0;
   margin: 0;
@@ -12,6 +12,7 @@
 }
 @media screen and (max-width: 768px) {
   .popup__close {
-    left: 92%;
+    left: 93%;
+    bottom: 103%;
   }
 }

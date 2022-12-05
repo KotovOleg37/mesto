@@ -3,4 +3,12 @@
   border: 1px solid #545454;
   max-width: 880px;
   margin: 0 auto;
+  margin-top: 41px;
+}
+
+@media screen and (max-width: 320px) {
+  .header__line {
+    margin-top: 31.6px;
+    width: 320px;
+  }
 }

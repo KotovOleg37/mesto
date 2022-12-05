@@ -1,6 +1,6 @@
 .popup__name {
   border: none;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid rgba(0, 0, 0, .2);
   min-width: 358px;
   padding: 0;
   font-family: 'Inter', Arial, Helvetica, sans-serif;
@@ -12,10 +12,17 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  padding-top: 14px;
 }
+
+.popup__name:focus {
+  outline-color: rgb(69, 96, 219);
+}
+
 
 @media screen and (max-width: 768px) {
   .popup__name {
     min-width: 238px;
+    padding-top: 37px;
   }
 }

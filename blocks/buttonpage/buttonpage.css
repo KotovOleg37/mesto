@@ -1,4 +1,4 @@
-.button{
+.buttonpage{
   padding: 0;
   margin: 0;
   border: 0;
@@ -7,6 +7,6 @@
   background-color: white;
 }
 
-button:hover{
+.buttonpage:hover{
   opacity: 0.6;
 }

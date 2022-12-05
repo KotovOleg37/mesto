@@ -1,4 +1,11 @@
 .elements__like{
-  padding-right: 30px;
-  padding-top: 7px;
+  padding-right: 19px;
+  padding-top: 4px;
+}
+
+@media screen and (max-width: 675px) {
+  .elements__like {
+    padding-right: 21px;
+    padding-top: 0px;
+  }
 }

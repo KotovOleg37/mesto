@@ -7,8 +7,9 @@
   margin-left: 18px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 675px) {
   .profile__button {
     padding-left: 10px;
+    margin-left: 0px;
   }
 }
