@@ -1,7 +1,7 @@
 .header__title{
   background-image: url(../../../images/vector-title.svg);
-  min-height: 33px;
-  min-width: 142px;  
+  min-width: 142px;
+  min-height: 33px;  
   background-size: contain;
   background-repeat: no-repeat;
 }
