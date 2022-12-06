@@ -5,7 +5,7 @@
   padding-inline-start: 0px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 20px 17px;
+  gap: 17px 17px;
   justify-items: center;
   line-height: 0;
   font-size: 0;
@@ -28,5 +28,6 @@
   .elements__wrapper {
     padding-top: 36px;
     padding-bottom: 48px;
+    gap: 21px 17px;
     }
 }

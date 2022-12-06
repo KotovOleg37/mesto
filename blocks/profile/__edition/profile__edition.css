@@ -1,12 +1,14 @@
 .profile__edition{
   border: 1px solid #FFFFFF;
-  max-width: 22px;
-  min-height: 22px;
+  padding: 6px;
+  max-width: 10px;
+  min-height: 10px;
 }
 
 @media screen and (max-width: 425px) {
   .profile__edition {
-    max-width: 16px;
-    min-height: 16px;
+    max-width: 7.5px;
+    min-height: 7.5px;
+    padding: 4.25px;
   }
 }

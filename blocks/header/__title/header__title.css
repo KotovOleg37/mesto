@@ -1,16 +1,17 @@
 .header__title{
-  background-image: url(../../../images/Vector.png);
+  background-image: url(../../../images/vector-title.svg);
   min-height: 33px;
-  min-width: 142px;
-  background-repeat: no-repeat;
+  min-width: 142px;  
   background-size: contain;
+  background-repeat: no-repeat;
 }
 
 
 @media screen and (max-width: 875px) {
   .header__title{
     min-height: 24.4px;
-    min-width: 103.74px;
+    background-size: 103.74px 24.4px;
     margin-left: 27px;
+    text-align: left;
   }
 }

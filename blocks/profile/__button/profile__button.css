@@ -4,12 +4,12 @@
   box-sizing: border-box;
   border: none;
   padding: 0px;
-  margin-left: 18px;
+  margin-left: 9px;
 }
 
 @media screen and (max-width: 675px) {
   .profile__button {
-    padding-left: 10px;
-    margin-left: 0px;
+    margin-left: 0px
+    
   }
 }
